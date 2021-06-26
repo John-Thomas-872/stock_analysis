@@ -33,3 +33,8 @@ One of the pros of refactoring the existing code it organization. The code and c
 
 Refactored code can often become long and complicated. Because of the way the original code was created, it might be harder to edit or make the necessary changes in a simple manner. Refactoring code can also be very time consuming and not worth the time and money to start over.  
 
+The original code was very good at doing exactly what Steve asked. To analyze 12 stocks for green energry companies. It is simple and works as asked. 
+The refactored code on the other hand is a little bit more complicated, but opens up the options that Steve has in the future. The refactored code also takes in the formatting macro that adds the correct formatting for the numbers and adds color for the positive and negative percentages. 
+
+Finally, to make the analysis easier for Steve, two buttons were added to All Stocks Analysis worksheet. The first button runs the macro after asking the user to input the year they would like to analyze. The second button clears the worksheet so that the first macro can be run again. 
+
