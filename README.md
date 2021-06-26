@@ -8,3 +8,10 @@ The orginal macro that was created analyzed 12 green energy stock options to hel
 
 When refactoring the VBA code, most of the code was able to stay the same. The image below highlights the updates and changes that were made to make the code run the way that Steve has requested. 
 ![alt text](https://github.com/John-Thomas-872/stock_analysis/blob/main/Resources/VBA_Challenge_Refactored.png)
+
+### Results
+There is another benefit to refactoring the VBA code other than allowing Steve to analyze more data. The refactored code now runs singinficantly faster. The original 2017 analysis ran in 0.6992188 seconds while the 2018 analysis ran in 0.6914063 seconds. The timer feature was added to determine if refactoring the code saved time.
+
+The 2017 analysis performed with the refactored code ran in 0.1328125 seconds, as seen in the image below. 
+
+
