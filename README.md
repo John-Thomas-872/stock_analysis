@@ -23,6 +23,6 @@ The 2018 analysis performed with the refactored code ran in 0.09375 seconds, as 
 Without using the timing feature in VBA it would be nearly impossible to tell the difference in the efficiency between the refactored and the original code, especially since both codes ran in less than a second. 
 
 ### Summary
-
+For this project it made the most sense to refactor the original code instead of starting from scratch. In doing this all of the original code was kept and If statements and for loops were added to analyze the entire stock market. 
 
 
