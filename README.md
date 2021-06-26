@@ -26,7 +26,9 @@ Without using the timing feature in VBA it would be nearly impossible to tell th
 For this project it made the most sense to refactor the original code instead of starting from scratch. In doing this all of the original code was kept and If statements and for loops were added to analyze the entire stock market. 
 
 **Pros**
-One of the pros of refactoring the existing code it organization. The code and comments for the code are already established so it makes it easier to go back and add the necessary changes in the correct locations. As long as a backup of the original code is saved, there is little to no risk in refactoring code. If something is deleted or the code developes a bug or error, the original code is there to fall back on. 
+
+One of the pros of refactoring the existing code it organization. The code and comments for the code are already established so it makes it easier to go back and add the necessary changes in the correct locations. As long as a backup of the original code is saved, there is little to no risk in refactoring code. If something is deleted or the code developes a bug or error, the original code is there to fall back on.
+
 **Cons**
 Refactored code can often become long and complicated. Because of the way the original code was created, it might be harder to edit or make the necessary changes in a simple manner. Refactoring code can also be very time consuming and not worth the time and money to start over.  
 
