@@ -20,6 +20,9 @@ The 2018 analysis performed with the refactored code ran in 0.09375 seconds, as 
 
 ![alt text](https://github.com/John-Thomas-872/stock_analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
+Without using the timing feature in VBA it would be nearly impossible to tell the difference in the efficiency between the refactored and the original code, especially since both codes ran in less than a second. 
+
+### Summary
 
 
 
