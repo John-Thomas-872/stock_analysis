@@ -12,7 +12,12 @@ When refactoring the VBA code, most of the code was able to stay the same. The i
 ### Results
 There is another benefit to refactoring the VBA code other than allowing Steve to analyze more data. The refactored code now runs singinficantly faster. The original 2017 analysis ran in 0.6992188 seconds while the 2018 analysis ran in 0.6914063 seconds. The timer feature was added to determine if refactoring the code saved time.
 
-The 2017 analysis performed with the refactored code ran in 0.1328125 seconds, as seen in the image below. 
-![alt text](
+The 2017 analysis performed with the refactored code ran in 0.1328125 seconds, as seen in the image below. The refactored code perfomed the 2017 analysis roughly 5 times faster than the orignal code. 
+![alt text](https://github.com/John-Thomas-872/stock_analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+The 2018 analysis performed with the refactored code ran in 0.09375 seconds, as seen in the image below. The refactored code performed the 2018 analysis more than 7 times faster than the original code. 
+![alt text](https://github.com/John-Thomas-872/stock_analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+
 
 
