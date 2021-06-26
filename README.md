@@ -1,1 +1,3 @@
-# stock_analysis
+# **VBA Stock Analysis**
+
+Steve is in the process of helping his parents invest in the stocks of companies that focus on green energy. He has reached out for help analyzing the stocks of a handful of other green energy companies so that his parents can divefsify their portfolio. Steve has provided an Excel file with the information for the green energy companies stocks from 2017 and 2018 he would like analyzed. The goal in helping Steve is to create a macro in Visual Basic for Applications (VBA) to automate this analysis. This will allow Steve to rerun his analysis data with other years of data in the future. 
